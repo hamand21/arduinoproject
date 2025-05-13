@@ -1,0 +1,12 @@
+Hardware Components:
+. NodeMCU (ESP8266)
+. Relay Module
+ . Jumper Wires
+. Power Supply (5V)
+. Appliance (e.g., Light )
+. Breadboard 
+
+Software and Development Tools:
+. Arduino IDE
+. ESP8266 Board Package
+. IFTTT
